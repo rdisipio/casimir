@@ -5,6 +5,15 @@ Casimir potential 5D radius compactification.
 Make plots
 ==========
 
+You need the following software packages to be installed:
+
+```
+python     - 2.7.14
+numpy      - 0.14.3
+scipy      - 1.1.0
+matplotlib - 2.2.2
+```
+
 Create a directory to save the plots:
 ```mkdir -p img```
 
