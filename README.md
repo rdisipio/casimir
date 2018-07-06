@@ -43,7 +43,7 @@ Parameters scan
 Make sure you have GNU-parallel installed in the system.
 
 Scan the coupling parameter for the massless scalar:
-```seq 0.0 10 200 | parallel ././plot_config_1.py {}```
+```seq 0.0 10 200 | parallel ./plot_config_1.py {}```
 
 Scan the coupling parameters for given masses of the scalar and of the antiperiodic fermion:
 
