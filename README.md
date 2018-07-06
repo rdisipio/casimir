@@ -1,8 +1,12 @@
 # casimir
 Casimir potential 5D radius compactification.
 
+
 Make plots
 ==========
+
+Create a directory to save the plots:
+```mkdir -p img```
 
 Plot potential for Standard Model only:
 ```
